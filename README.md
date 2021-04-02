@@ -30,3 +30,8 @@
 9. [Python Development](https://github.com/mikeroyal/Ansible-Guide/blob/main/README.md#python-development)
 
 10. [Bash/PowerShell Development](https://github.com/mikeroyal/Ansible-Guide/blob/main/README.md#bash-powershell-development)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/113448809-651fa800-93b1-11eb-9e27-c0b108ade2ec.png">
+  <br />
+</p>
