@@ -29,7 +29,7 @@
 
 9. [Python Development](https://github.com/mikeroyal/Ansible-Guide/blob/main/README.md#python-development)
 
-10. [Bash/PowerShell Development](https://github.com/mikeroyal/Ansible-Guide/blob/main/README.md#bash-powershell-development)
+10. [Bash/PowerShell Development](https://github.com/mikeroyal/Ansible-Guide/blob/main/README.md#bashpowershell-development)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/113448806-63ee7b00-93b1-11eb-8d80-673518233cd2.png">
@@ -38,7 +38,7 @@
 
 # Ansible Learning Resources
 
-[Back to the Top](https://github.com/mikeroyal/Anisble-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Ansible-Guide/blob/main/README.md#table-of-contents)
 
 [Red Hat Training for Ansible](https://www.ansible.com/products/training-certification)
 
@@ -548,7 +548,7 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 # Telco 5G
 
-[Back to the Top](https://github.com/mikeroyal/Anisble-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Ansible-Guide/blob/main/README.md#table-of-contents)
 
 <img src="https://user-images.githubusercontent.com/45159366/105409952-14881380-5be6-11eb-84fc-b07db69698ed.png">
  
