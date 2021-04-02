@@ -32,6 +32,6 @@
 10. [Bash/PowerShell Development](https://github.com/mikeroyal/Ansible-Guide/blob/main/README.md#bash-powershell-development)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/113448809-651fa800-93b1-11eb-9e27-c0b108ade2ec.png">
+ <img src="https://user-images.githubusercontent.com/45159366/113448806-63ee7b00-93b1-11eb-8d80-673518233cd2.png">
   <br />
 </p>
