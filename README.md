@@ -11,7 +11,7 @@
  
 # Table of Contents
 
-1. [Ansible Learning Resources](https://github.com/mikeroyal/Ansible-Guide/blob/main/README.md#anisble-learning-resources)
+1. [Ansible Learning Resources](https://github.com/mikeroyal/Ansible-Guide/blob/main/README.md#ansible-learning-resources)
 
 2. [Ansible Devops Tools Integration](https://github.com/mikeroyal/Ansible-Guide/blob/main/README.md#ansible-devops-tools-integration)
  
