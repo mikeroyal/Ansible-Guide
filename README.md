@@ -8,7 +8,11 @@
  
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
- 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/145697391-f860d6db-9da6-4af1-9fb9-c1907cb5452b.png">
+  <br />
+</p>
+
 # Table of Contents
 
 1. [Ansible Learning Resources](https://github.com/mikeroyal/Ansible-Guide/blob/main/README.md#ansible-learning-resources)
@@ -31,10 +35,6 @@
 
 10. [Bash/PowerShell Development](https://github.com/mikeroyal/Ansible-Guide/blob/main/README.md#bashpowershell-development)
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/113448806-63ee7b00-93b1-11eb-8d80-673518233cd2.png">
-  <br />
-</p>
 
 # Ansible Learning Resources
 
