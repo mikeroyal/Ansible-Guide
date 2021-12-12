@@ -54,11 +54,11 @@
 
 [Ansible Documentation](https://docs.ansible.com/ansible/latest/index.html)
 
-[Anislbe Galaxy User Guide](https://docs.ansible.com/ansible/latest/galaxy/user_guide.html)
+[Ansible Galaxy User Guide](https://docs.ansible.com/ansible/latest/galaxy/user_guide.html)
 
-[Anisble Use Cases](https://www.ansible.com/use-cases?hsLang=en-us)
+[Ansible Use Cases](https://www.ansible.com/use-cases?hsLang=en-us)
 
-[Anisble Integrations](https://www.ansible.com/integrations?hsLang=en-us)
+[Ansible Integrations](https://www.ansible.com/integrations?hsLang=en-us)
 
 [Ansible Collections Overview](https://github.com/ansible-collections/overview/blob/main/README.rst)
 
