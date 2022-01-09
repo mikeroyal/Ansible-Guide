@@ -1,0 +1,11 @@
+---
+- yum: name={{contact.item}} state=installed
+with_items:
+- app1_server
+- awesome_software
+
+- service: name=app_server state=running enabled=yes
+
+- template: src=/opt/code/templates/build.j2 dest=/etc/build.conf
+notify:
+- restart app1 server
